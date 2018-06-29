@@ -1,3 +1,4 @@
+![Logo](./logo.png)
 # rosei
 Online mess management System currently live in IIIT Bhubaneswar
 
